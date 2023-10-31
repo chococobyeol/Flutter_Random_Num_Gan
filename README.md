@@ -1,6 +1,6 @@
 # random_number_gen_v3
 
-A new Flutter project.
+ai로 만든 랜덤 숫자 뽑기 앱
 
 ## Getting Started
 
